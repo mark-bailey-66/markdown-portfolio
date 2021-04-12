@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can record steps in *Microsoft Excel* **macros** that I can run later when I feel ***especially*** lazy.
